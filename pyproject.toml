@@ -1,0 +1,14 @@
+[project]
+name = "rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.0.20",
+    "nltk>=3.9.1",
+    "ollama>=0.5.3",
+    "openai>=1.107.2",
+    "scikit-learn>=1.7.2",
+    "sentence-transformers>=5.1.0",
+]
