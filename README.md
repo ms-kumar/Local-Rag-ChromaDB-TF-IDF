@@ -29,8 +29,8 @@ This project demonstrates two implementations of a Retrieval-Augmented Generatio
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone [<repository-url>](https://github.com/ms-kumar/Local-Rag-ChromaDB-TF-IDF.git)
+    cd Local-Rag-ChromaDB-TF-IDF
     ```
 
 2.  **Create and activate a virtual environment:**
